@@ -21,13 +21,13 @@ export function buildMetadata(): Metadata {
       url: siteConfig.domain,
       siteName: siteConfig.name,
       locale: "id_ID",
-      type: "profile",
+      type: "website",
       images: [
         {
           url: ogImage,
           width: 1200,
           height: 630,
-          alt: `${siteConfig.name} - ${siteConfig.headline}`
+          alt: "Andi Wahyudi professional personal branding banner"
         }
       ]
     },

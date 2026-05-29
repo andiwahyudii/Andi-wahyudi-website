@@ -9,6 +9,6 @@ export const siteConfig = {
   locationId: "Kalimantan Barat, Indonesia",
   locationEn: "West Kalimantan, Indonesia",
   profileImage: "/images/profile/andi-wahyudi.jpg",
-  ogImage: "/images/og/og-image.jpg",
-  domain: process.env.NEXT_PUBLIC_SITE_URL || "https://andiwahyudi.com"
+  ogImage: "/og/andi-wahyudi-og-v2.png",
+  domain: "https://andiwahyudi.com"
 } as const;

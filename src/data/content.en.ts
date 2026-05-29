@@ -11,7 +11,7 @@ export const contentEn = {
   seo: {
     title: "Andi Wahyudi | Legal, Business, Property & Digital Development Strategist",
     description:
-      "Personal website of Andi Wahyudi, a multidisciplinary professional in business law, mining law, corporate governance, property development, cooperatives, aviation security, website development, and digital branding.",
+      "Personal website of Andi Wahyudi, a multidisciplinary professional in business law, mining law, corporate governance, property development, cooperatives, aviation security, website development, and digital business strategy.",
     keywords: [
       "Andi Wahyudi",
       "Andi Wahyudi hukum pertambangan",
@@ -68,8 +68,7 @@ export const contentEn = {
       contact: "Contact Me",
       consultation: "Project Consultation"
     },
-    imageAlt:
-      "Andi Wahyudi - Legal, Business, Property & Digital Development Strategist"
+    imageAlt: "Andi Wahyudi professional personal branding banner"
   },
   about: {
     section: {

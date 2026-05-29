@@ -11,7 +11,7 @@ export const contentId = {
   seo: {
     title: "Andi Wahyudi | Legal, Business, Property & Digital Development Strategist",
     description:
-      "Website pribadi Andi Wahyudi, profesional multidisiplin di bidang hukum bisnis, hukum pertambangan, tata kelola perusahaan, pengembangan properti, koperasi, aviation security, website development, dan digital branding.",
+      "Website pribadi Andi Wahyudi, profesional multidisiplin di bidang hukum bisnis, hukum pertambangan, tata kelola perusahaan, pengembangan properti, koperasi, aviation security, website development, dan digital business strategy.",
     keywords: [
       "Andi Wahyudi",
       "Andi Wahyudi hukum pertambangan",
@@ -68,8 +68,7 @@ export const contentId = {
       contact: "Hubungi Saya",
       consultation: "Konsultasi Proyek"
     },
-    imageAlt:
-      "Andi Wahyudi - Legal, Business, Property & Digital Development Strategist"
+    imageAlt: "Andi Wahyudi professional personal branding banner"
   },
   about: {
     section: {
