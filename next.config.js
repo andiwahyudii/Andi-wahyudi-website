@@ -20,21 +20,6 @@ const nextConfig = {
         ]
       }
     ];
-  },
-  async redirects() {
-    return [
-      {
-        source: "/:path*",
-        has: [
-          {
-            type: "host",
-            value: "www.andiwahyudi.com"
-          }
-        ],
-        destination: "https://andiwahyudi.com/:path*",
-        permanent: true
-      }
-    ];
   }
 };
 
