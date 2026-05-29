@@ -25,8 +25,9 @@ export function buildMetadata(): Metadata {
       images: [
         {
           url: ogImage,
-          width: 1200,
-          height: 630,
+          width: siteConfig.ogImageWidth,
+          height: siteConfig.ogImageHeight,
+          type: siteConfig.ogImageType,
           alt: "Andi Wahyudi professional personal branding banner"
         }
       ]
